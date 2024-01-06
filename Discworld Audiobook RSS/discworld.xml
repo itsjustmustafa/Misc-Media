@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Discworld Audiobooks</title>
+        <description>The complete Discworld audiobook collection, sourced from https://archive.org/details/discworld-audiobooks.</description>
+        <link>https://archive.org/details/discworld-audiobooks</link>
+        <language>en-us</language>
+        <itunes:explicit>No</itunes:explicit>   
+    <image>
+        <url>https://cdn.discordapp.com/attachments/892365586007474186/1193085944203575296/discworld.png</url>
+    </image>
+
+        <item>
+            <title>1. The Colour of Magic</title>
+            <description>‘It was octarine, the colour of magic. It was alive and glowing and vibrant and it was the undisputed pigment of the imagination . . .’
+
+Somewhere between thought and reality exists the Discworld, a magical world not totally unlike our own. Except for the fact that it travels through space on the shoulders of four giant elephants who in turn stand on the shell of an astronomically huge star turtle, of course.
+
+Rincewind is the world’s worst wizard who has just been handed a very important job: to look after the world’s first tourist, upon whose survival rests the peace and prosperity of the land. Unfortunately, their journey across the Disc includes facing robbers, monsters, mercenaries, and Death himself.
+
+And the whole thing’s just a game of the gods that might send them over the edge . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/01-ColourOfMagic.mp3" length="12345678" type="audio/mpeg" />
+            <pubDate>1983-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_1</guid>
+        </item>
+        <item>
+            <title>2. The Light Fantastic</title>
+            <description>‘Darkness isn’t the opposite of light, it is simply its absence . . . what was radiating from the book was the light that lies on the far side of darkness, the light fantastic.’
+
+The Discworld is in danger, heading towards a seemingly inevitable collision with a malevolent red star, its magic fading. It needs a hero, and fast.
+
+What it doesn’t need is Rincewind, an inept and cowardly wizard who is still recovering from the trauma of falling off the edge of the world. Or Twoflower, the well-meaning tourist whose luggage has a mind (and legs) of its own.
+
+Which is a shame, because that’s all there is . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/02-TheLightFantastic.mp3" length="23456789" type="audio/mpeg" />
+            <pubDate>1986-06-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_2</guid>
+        </item>
+        <item>
+            <title>3. Equal Rites</title>
+            <description>‘They say a little knowledge is a dangerous thing, but it is not one half so bad as a lot of ignorance.’
+
+Everybody knows there’s no such thing as a female wizard. So when the wizard Drum Billet accidentally passes on his staff of power to an eighth daughter of an eighth son, a girl called Eskarina (Esk, for short), the misogynistic world of wizardry want nothing to do with her.
+
+Thankfully Granny Weatherwax, the Discworld’s most famous witch, has plenty of experience ignoring the status quo. With Granny’s help, Esk sneaks her way into the magical Unseen University and befriends apprentice wizard Simon.
+
+But power is unpredictable, and these bright young students soon find themselves in a whole new dimension of trouble. Let the battle of the sexes begin . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/03-EqualRites.mp3" length="34567890" type="audio/mpeg" />
+            <pubDate>1987-06-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_3</guid>
+        </item>
+        <item>
+            <title>4. Mort</title>
+            <description>‘YOU CANNOT INTERFERE WITH FATE. WHO ARE YOU TO JUDGE WHO SHOULD LIVE AND WHO SHOULD DIE?’
+
+Death comes to us all. When he came to Mort, he offered him a job.
+
+Death is the Grim Reaper of the Discworld, a black-robed skeleton with a scythe who ushers souls into the next world. He is also fond of cats and endlessly baffled by humanity. Soon Death is yearning to experience what humanity really has to offer, but to do that, he’ll need to hire some help.
+
+It’s an offer Mort can’t refuse. As Death’s apprentice he’ll have free board, use of the company horse – and being dead isn’t compulsory. It’s a dream job – until Mort falls in love with Death’s daughter, Ysabell, and discovers that your boss can be a killer on your love life . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/04-Mort.mp3" length="45678901" type="audio/mpeg" />
+            <pubDate>1987-06-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_4</guid>
+        </item>
+        <item>
+            <title>5. Sourcery</title>
+            <description>‘It’s vital to remember who you really are . . . it isn’t a good idea to rely on other people or things to do it for you, you see. They always get it wrong.’
+
+
+An eighth son of an eighth son is born, a wizard squared, a source of magic. A sourcerer.
+
+Unseen University, the Discworld’s most magical establishment, has finally got its wish: the emergence of a wizard more powerful than ever before. You’d think they would have been a little more careful what they wished for . . .
+
+As the sourcerer takes over the University and sets his sights on the rest of the world, only one wizard manages to escape his influence. Unfortunately for everyone, it’s Rincewind.
+
+Once again the cowardly wizard must embark on a quest: to deliver a precious artefact – the very embodiment of magic itself – halfway across the Disc to safety. If he doesn’t make it, the death of all wizardry is at hand.
+
+And the end of the world, depending on who you listen to.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/05-Sourcery.mp3" length="56789012" type="audio/mpeg" />
+            <pubDate>1988-07-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_5</guid>
+        </item>
+        <item>
+            <title>6. Wyrd Sisters</title>
+            <description>‘Destiny is important, see, but people go wrong when they think it controls them. It’s the other way around.’
+
+Three witches on a lonely heath. A king cruelly murdered, his throne usurped by his ambitious cousin. A child heir and the royal crown, both missing.
+
+Witches don’t have these kinds of leadership problems themselves – in fact, they don’t have leaders.
+
+Granny Weatherwax is the most highly regarded of the leaders they don’t have. But even she finds that meddling in royal politics is a lot more complicated than certain playwrights would have you believe. Particularly when the blood on your hands just won’t wash off . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/06-WyrdSisters.mp3" length="67890123" type="audio/mpeg" />
+            <pubDate>1988-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_6</guid>
+        </item>
+        <item>
+            <title>7. Pyramids</title>
+            <description>‘”LOOK AFTER THE DEAD,” SAID THE PRIESTS, “AND THE DEAD WOULD LOOK AFTER YOU.”‘
+
+Young Prince Teppic is sent far away from his desert homeland to the city of Ankh-Morpork for the best education money can buy. Which just so happens to be at the Assassins’ Guild.
+
+But when Teppic’s father dies suddenly, fate takes him away from assassination to something far more unsavoury: politics. Teppic returns home to the small, penniless kingdom of Djelibeybi to take his place as ruler.
+
+It isn’t easy, being a teenage pharaoh. As tradition dictates, the new king must build a monumental pyramid to honour his dead father. But this one might just bankrupt the kingdom, and warp the very fabric of time and space itself . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/07-Pyramids.mp3" length="78901234" type="audio/mpeg" />
+            <pubDate>1989-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_7</guid>
+        </item>
+        <item>
+            <title>8. Guards! Guards!</title>
+            <description>‘Vimes ran a practised eye over the assortment before him. It was the usual Ankh-Morpork mob in times of crisis; half of them were here to complain, a quarter of them were here to watch the other half, and the remainder were here to rob, importune or sell hotdogs to the rest.’
+
+Insurrection is in the air in the city of Ankh-Morpork. The Haves and Have-Nots are about to fall out all over again.
+
+Captain Sam Vimes of the city’s ramshackle Night Watch is used to this. It’s enough to drive a man to drink. Well, to drink more. But this time, something is different – the Have-Nots have found the key to a dormant, lethal weapon that even they don’t fully understand, and they’re about to unleash a campaign of terror on the city.
+
+Time for Captain Vimes to sober up…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/08-GuardsGuards.mp3" length="89012345" type="audio/mpeg" />
+            <pubDate>1989-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_8</guid>
+        </item>
+        <item>
+            <title>9. Eric</title>
+            <description>Eric calls up a demon to grant him three wishes – but what he gets is the Discworld’s most incompetent wizard…
+
+Eric is the Discworld’s only demonology hacker. The trouble is, he’s not very good at it. All he wants is the usual three wishes: to be immortal, rule the world and have the most beautiful woman fall madly in love with him. The usual stuff.
+
+But what he gets is Rincewind, the Disc’s most incompetent wizard, and Rincewind’s Luggage (the world’s most dangerous travel accessory) into the bargain.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/09-Eric.mp3" length="90123456" type="audio/mpeg" />
+            <pubDate>1990-09-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_9</guid>
+        </item>
+        <item>
+            <title>10. Moving Pictures</title>
+            <description>‘HOLY WOOD IS A DIFFERENT SORT OF PLACE . . . HERE, THE MOST IMPORTANT THING IS TO BE IMPORTANT.’
+
+A new phenomenon is taking over the Discworld: moving pictures. Created by the alchemists of Ankh-Morpork, the growing ‘clicks’ industry moves to the sandy land of Holy Wood, attracted by the light of the sun and some strange calling no one can quite put their finger on…
+
+Also drawn to Holy Wood are aspiring young stars Victor Tugelbend, a wizarding student dropout, and Theda ‘Ginger’ Withel, a small-town girl with big dreams.
+
+But behind the glitz and glamour of the clicks, a sinister presence lurks. Because belief is powerful in the Discworld, and sometimes downright dangerous…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/10-MovingPictures.mp3" length="12345678" type="audio/mpeg" />
+            <pubDate>1990-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_10</guid>
+        </item>
+        <item>
+            <title>11. Reaper Man</title>
+            <description>‘Inside every living person is a dead person waiting to get out.’
+
+Death has been fired by the Auditors of Reality for the heinous crime of developing . . . a personality. Sent to live like everyone else, Death takes a new name and begins working as a farmhand. He’s got the scythe already, after all.
+
+And for humanity, Death is just . . . gone. Which leads to the kind of chaos you always get when an important public service is withdrawn. If Death doesn’t come for you, then what are you supposed to do in the meantime?
+
+You can’t have the undead wandering about like lost souls – there’s no telling what might happen. Particularly when they discover that life really is only for the living . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/11-ReaperMan.mp3" length="23456789" type="audio/mpeg" />
+            <pubDate>1991-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_11</guid>
+        </item>
+        <item>
+            <title>12. Witches Abroad</title>
+            <description>‘You can’t go around building a better world for people. Only people can build a better world for people. Otherwise it’s just a cage.’
+
+There’s power in stories. The fairy godmother is good. The servant girl marries the prince. Everyone lives happily ever after . . . don’t they?
+
+The witches Granny Weatherwax, Nanny Ogg and Magrat Garlick are travelling to far-distant Genua to stop a wedding and save a kingdom. But how do you fight a happy-ever-after, especially when it comes with glass slippers and a power-hungry fairy godmother who has made destiny an offer it can’t refuse?
+
+It’s hard to resist a good story, even when the fate of the kingdom depends on it . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/12-WitchesAbroad.mp3" length="34567890" type="audio/mpeg" />
+            <pubDate>1991-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_12</guid>
+        </item>
+        <item>
+            <title>13. Small Gods</title>
+            <description>‘You should do things because they’re right. Not because gods say so. They might say something different another time.’
+
+Religion is a competitive business in the Discworld. Everyone has their own opinion and their own gods, of every shape and size – all fighting for faith, followers, and a place at the top.
+
+So when the great god Om accidentally manifests himself as a lowly tortoise, stripped of all divine power, it’s clear he’s become less important than he realized.
+
+In such instances, you need an acolyte, and fast. Enter Brutha, the Chosen One – or at least the only One available. He wants peace, justice and love – but that’s hard to achieve in a world where religion means power, and corruption reigns supreme . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/13-SmallGods.mp3" length="45678901" type="audio/mpeg" />
+            <pubDate>1992-06-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_13</guid>
+        </item>
+        <item>
+            <title>14. Lords and Ladies</title>
+            <description>‘People didn’t seem to be able to remember what it was like with the elves around. Life was certainly more interesting then, but usually because it was shorter. And it was more colourful, if you liked the colour of blood . . .’
+
+On Midsummer Night, dreams are especially powerful. So powerful, in fact, that they can cause the walls between realities to come crashing down. And some things you really don’t want to break through.
+
+The witches Granny Weatherwax, Nanny Ogg and Magrat Garlick return home to discover that elves have invaded Lancre. And even in a world of wizards, trolls, dwarves, Morris dancers – and the odd orangutan – they’re spectacularly nasty creatures.
+
+The fairies are back – and this time they don’t just want your teeth . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/14-LordsAndLadies.mp3" length="56789012" type="audio/mpeg" />
+            <pubDate>1992-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_14</guid>
+        </item>
+        <item>
+            <title>15. Men at Arms</title>
+            <description>‘What’s so hard about pulling a sword out of a stone? The real work’s already been done. You ought to make yourself useful and find the man who put the sword in the stone in the first place.’
+
+The City Watch needs MEN! But what it’s got includes Corporal Carrot (technically a dwarf), Lance-constable Cuddy (really a dwarf), Lance-constable Detritus (a troll), Lance-constable Angua (a woman… most of the time) and Corporal Nobbs (disqualified from the human race for shoving).
+
+And they need all the help they can get, because someone in Ankh-Morpork has been getting dangerous ideas – about crowns and legendary swords, and destiny.
+
+And the problem with destiny is, of course, that she is not always careful where she points her finger. One minute you might be minding your own business on a normal if not spectacular career path, the next you might be in the frame for the big job, like saving the world…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/15-MenAtArms.mp3" length="67890123" type="audio/mpeg" />
+            <pubDate>1993-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_15</guid>
+        </item>
+        <item>
+            <title>16. Soul Music</title>
+            <description>‘This didn’t feel like magic. It felt a lot older than that. It felt like music.’
+
+Being sixteen is always difficult, but it’s even more so when there’s a Death in the family. Susan hasn’t exactly had a normal upbringing, with a skeletal grandfather who rides a white horse and wields a scythe.
+
+When Death decides he needs a well-earned break, he leaves Susan to take over the family business. The only problem is, everyone mistakes her for the Tooth Fairy . . .
+
+Well, not the only problem. There’s a new, addictive music in Discworld. It’s lawless. It changes people. It’s got a beat and you can dance to it.
+
+It’s called Music With Rocks In. And it won’t fade away . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/16-SoulMusic.mp3" length="78901234" type="audio/mpeg" />
+            <pubDate>1994-09-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_16</guid>
+        </item>
+        <item>
+            <title>17. Interesting Times</title>
+            <description>‘There is a curse. They say: may you live in interesting times . . .’
+
+This is the worst thing you can wish on a citizen of Discworld. Especially for the magically challenged Rincewind, who has already had far too much excitement in his life.
+
+Unfortunately, the unlucky wizard always seems to end up in the middle of, well, absolutely everything. So when a request for a ‘Great Wizzard’ arrives from the faraway Counterweight Continent, it’s obviously Rincewind who’s sent. For one thing, he’s the only one who spells wizard that way.
+
+Once again Rincewind is thrown headfirst into a dangerous adventure. For the oldest empire on the Disc is in turmoil and Chaos is building. And, for some reason, someone believes Rincewind will have a vital role in the coming war . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/17-InterestingTimes.mp3" length="89012345" type="audio/mpeg" />
+            <pubDate>1994-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_17</guid>
+        </item>
+        <item>
+            <title>18. Maskerade</title>
+            <description>‘There’s a kind of magic in masks. Masks conceal one face, but they reveal another. The one that only comes out in darkness …’
+
+The Opera House in Ankh-Morpork is home to music, theatrics and a harmless masked Ghost who lurks behind the scenes. But now a set of mysterious backstage murders may just stop the show.
+
+Agnes Nitt has left her rural home of Lancre in the hopes of launching a successful singing career in the big city. The only problem is, she doesn’t quite look the part. And there are two witches who would much rather she return home to join their coven.
+
+Granny Weatherwax and Nanny Ogg have travelled to Ankh-Morpork to convince Agnes that life as a witch is much better than one on the stage. Only now they’re caught up in a murder mystery featuring masks and maniacal laughter.
+
+And the show MUST go on . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/18-Maskerade.mp3" length="90123456" type="audio/mpeg" />
+            <pubDate>1995-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_18</guid>
+        </item>
+        <item>
+            <title>19. Feet of Clay</title>
+            <description>‘Sorry?’ said Carrot. ‘If it’s just a thing, how can it commit murder? A sword is a thing,’ – he drew his own sword; it made an almost silken sound – ‘and of course you can’t blame a sword if someone thrust it at you, sir.’
+
+For Commander Vimes, Head of Ankh-Morpork City Watch, life consists of troubling times, linked together by… well, more troubling times.
+
+Right now, it’s the latter. There’s a werewolf with pre-lunar tension in the city, a dwarf with attitude and a golem who’s begun to think for itself… and that’s just the ordinary trouble. The real problem is more puzzling – people are being murdered, but there’s no trace of anything alive having been at the crime scene.
+
+Now Vimes not only has to find out whodunit, but howdunit too. He’s not even sure what they dun. But soon as he knows what the questions are, he’s going to want some answers.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/19-FeetOfClay.mp3" length="12345678" type="audio/mpeg" />
+            <pubDate>1996-10-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_19</guid>
+        </item>
+        <item>
+            <title>20. Hogfather</title>
+            <description>‘Humans need fantasy to be human. To be the place where the falling angel meets the rising ape.’
+
+‘Twas the night before Hogswatch and all through the house . . . something was missing.
+
+Superstition makes things work in the Discworld and undermining it can have consequences. When Death realizes that belief in the Hogfather is dangerously low, he decides to take on the job. But it’s just not right to find a seven-foot skeleton creeping down your chimney and trying to say ‘ho, ho, ho’.
+
+It’s the last night of the year, the time is turning, and if Susan, gothic governess and Death’s granddaughter, doesn’t sort everything out by morning, there won’t be a morning. Ever again . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/20-Hogfather.mp3" length="23456789" type="audio/mpeg" />
+            <pubDate>1996-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_20</guid>
+        </item>
+        <item>
+            <title>21. Jingo</title>
+            <description>‘Neighbours… hah. People’d live for ages side by side, nodding at one another amicably on their way to work, and then some trivial thing would happen and someone would be having a garden fork removed from their ear.’
+
+When the neighbours in question are the proud empires of Klatch and Ankh-Morpork, those are going to be some pretty large garden tools indeed. Of course, no one would dream of starting a war without a perfectly good reason… such as a ‘strategic’ piece of old rock in the middle of nowhere.
+
+It is, after all, every citizen’s right to bear arms to defend their own. Even if it isn’t technically their own. And even if they don’t have much in the way of actual weaponry. As two armies march, Commander Vimes of the Ankh-Morpork City Watch faces unpleasant foes who are out to get him . . . and that’s just the people on his side. The enemy might be even worse.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/21-Jingo.mp3" length="34567890" type="audio/mpeg" />
+            <pubDate>1997-10-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_21</guid>
+        </item>
+        <item>
+            <title>22. The Last Continent</title>
+            <description>‘Anything you do in the past changes the future. The tiniest little actions have huge consequences. You might tread on an ant now and it might entirely prevent someone from being born in the future.’
+
+Rincewind, inept wizard and reluctant hero, has found himself magically stranded on the Discworld’s last continent.
+
+It’s hot. It’s dry. There was this thing once called The Wet, which no one believes in any more. Practically everything that’s not poisonous is venomous. But it’s the best bloody place in the world, all right?
+
+And in a few days, it will die. The only thing standing between the last continent and wind-blown doom is Rincewind, and he can’t even spell wizard. Still . . . no worries, eh?</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/22-LastContinent.mp3" length="45678901" type="audio/mpeg" />
+            <pubDate>1998-06-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_22</guid>
+        </item>
+        <item>
+            <title>23. Carpe Jugulum</title>
+            <description>‘“Carpe Jugulum,”’ read Agnes aloud. ‘That’s . . . well, Carpe Diem is Seize the Day, so this means—’
+“Go for the Throat . . .”’
+
+Vampires have come to Lancre, but they’re not what you’d expect. Sure, they drink blood and view humans as dinner, but they’re modern and sophisticated. They’ve got style and fancy waistcoats. And they’re not a bit afraid of garlic.
+
+The Magpyr family are out of the casket and want a bite of the future. But they haven’t met the neighbours yet.
+
+Between them and Lancre stands a coven of four – Granny Weatherwax, Nanny Ogg, Magrat and young Agnes – and they don’t take kindly to murderous intruders . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/23-CarpeJugulum.mp3" length="56789012" type="audio/mpeg" />
+            <pubDate>1998-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_23</guid>
+        </item>
+        <item>
+            <title>24. The Fifth Elephant</title>
+            <description>‘Well, he thought, so this is diplomacy. It’s lying, only for a better class of people.’
+
+They say that diplomacy is a gentle art. That mastering it is a lifetime’s work. But you do need a certain inclination in that direction. It’s not something you can just pick up on the job.
+
+A few days ago Sam Vimes was a copper – an important copper, true – chief of police – but still, at his core, a policeman. Today he is an ambassador – to the mysterious, fat-rich country of Uberwald. Today, Sam Vimes is also a man on the run.
+
+At some point during his ambassadorship, things went very wrong. It’s snowing. It’s freezing. And if Vimes can’t make it through the forest, with only his wits and the gloomy trousers of Uncle Vanya (don’t ask), there’s going to be a terrible war.
+
+There are monsters on his trail. They’re bright. They’re fast. They’re werewolves – and they’re catching up.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/24-FifthElephant.mp3" length="67890123" type="audio/mpeg" />
+            <pubDate>1999-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_24</guid>
+        </item>
+        <item>
+            <title>25. The Truth</title>
+            <description>‘A lie can run round the world before the truth can get its boots on.’
+
+William de Worde has somehow found himself editor of Ankh-Morpork’s first newspaper. Well, with a name like that . . .
+
+Launched into the world of investigative journalism, alongside reporter Sacharissa Cripslock, William soon learns that the news is a risky business. For a start, his colleagues include a band of axe-wielding dwarfs and a recovering vampire with a life-threatening passion for flash photography.
+
+It’s a big news week: the most powerful man in the city has been arrested, leaving Ankh-Morpork without a leader. And a dangerous criminal organisation will do anything to control the story . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/25-TheTruth.mp3" length="78901234" type="audio/mpeg" />
+            <pubDate>2000-10-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_25</guid>
+        </item>
+        <item>
+            <title>26. Thief of Time</title>
+            <description>‘The universe is, instant by instant, recreated anew . . . The perfect moment is now. Be glad of it.’
+
+Time is a resource. Everyone knows it must be managed. You can let it move fast or slowly, but what you mustn’t do is allow it to stop.
+
+On the Discworld, the History Monks have the important job of ensuring that tomorrow always comes. But the construction of the world’s first truly accurate clock starts a race against, well . . . time.
+
+Monk Lu-Tze, his apprentice Lobsang Ludd and Death’s granddaughter Susan must stop the clockmaker before he completes his task. Because a truly accurate clock will stop time completely.
+
+And then, there really will be no tomorrow . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/26-ThiefOfTime.mp3" length="89012345" type="audio/mpeg" />
+            <pubDate>2001-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_26</guid>
+        </item>
+        <item>
+            <title>27. The Last Hero</title>
+            <description>Cohen the Barbarian, with his ancient sword, his walking stick, is going on one final quest.
+            
+Cohen can remember when a hero didn’t have to worry about fences and lawyers and civilisation, and when people didn’t tell you off for killing dragons. But he can’t always remember, these days, where he put his teeth…
+
+So now, with his ancient sword and his new walking stick and his old friends – and they’re very old friends – Cohen the Barbarian is going on one final quest. He’s going to climb the highest mountain in the Discworld and meet his gods. The last hero in the world is going to return what the first hero stole. With a vengeance.
+
+That’ll mean the end of the world, if no one stops him in time.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/27-TheLastHero.mp3" length="90123456" type="audio/mpeg" />
+            <pubDate>2001-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_27</guid>
+        </item>
+        <item>
+            <title>28. The Amazing Maurice and his Educated Rodents</title>
+            <description>IT’S A RAT-EAT-RAT WORLD…
+
+Maurice, a streetwise tomcat, has the perfect money-making scam. Everyone knows the stories about rats and pipers, and Maurice has a stupid-looking kid with a pipe, and his very own plague of rats—strangely educated rats…
+
+But in Bad Blintz, the little con suddenly goes down the drain. For someone there is playing a different tune and now the rats must learn a new word.
+
+EVIL.
+
+The rules have changed. And this story is no longer dancing to the piper’s tune…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/40-TheAmazingMaurice.mp3" length="90123456" type="audio/mpeg" />
+            <pubDate>2001-06-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_40</guid>
+        </item>
+        <item>
+            <title>29. Night Watch</title>
+            <description>For a policeman, there can be few things worse than a serial killer loose in your city. Except, perhaps, a serial killer who targets coppers, and a city on the brink of bloody revolution.
+
+For Commander Sam Vimes, it all feels horribly familiar. Caught on the roof of a very magical building during a storm, he’s found himself back in his own rough, tough past without even the clothes he was standing up in when the lightning struck. Living in the past is hard, especially when your time travel companion is a serial killer who knows where you live. But he must survive, because he has a job to do: track down the murderer and change the outcome of the rebellion.
+
+The problem is: if he wins, he’s got no wife, no child, no future…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/28-NightWatch.mp3" length="12345678" type="audio/mpeg" />
+            <pubDate>2002-10-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_28</guid>
+        </item>
+        <item>
+            <title>30. The Wee Free Men</title>
+            <description>Armed with only a frying pan and her common sense, young witch-to-be Tiffany Aching must defend her home against the monsters of Fairyland. Luckily she has some very unusual help: the local Nac Mac Feegle – aka the Wee Free Men – a clan of fierce, sheep-stealing, sword-wielding, six-inch-high blue men.
+
+Together they must face headless horsemen, ferocious grimhounds, terrifying dreams come true, and ultimately the sinister Queen of the Elves herself…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/41-WeeFreeMen.mp3" length="12345678" type="audio/mpeg" />
+            <pubDate>2003-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_41</guid>
+        </item> 
+		<item>
+            <title>31. Monstrous Regiment</title>
+            <description>‘That’s the trouble about the good guys and the bad guys! They’re all guys!’
+
+In the small yet aggressive country of Borogravia, there are strict rules citizens must follow. For a start, women belong in the kitchen – not in jobs, pubs, or indeed trousers. And certainly not on the front line.
+
+Polly Perks has to become a boy in a hurry if she wants to find her missing brother in the army. Cutting off her hair and wearing the trousers is easy. Going to war however, is not.
+
+Polly and her fellow raw recruits are suddenly in the thick of a losing battle. All they have on their side is the most artful sergeant in the army and a vampire with a lust for coffee.
+
+It’s time to make a stand.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/29-MonstrousRegiment.mp3" length="23456789" type="audio/mpeg" />
+            <pubDate>2003-11-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_29</guid>
+        </item>
+        <item>
+            <title>32. A Hat Full of Sky</title>
+            <description>Tiffany Aching is ready to begin her apprenticeship in magic. She expects spells and magic – not chores and ill-tempered goats! Surely there must be more to witchcraft than this.
+
+What Tiffany doesn’t know is that an insidious, disembodied creature is pursuing her. This time, neither Mistress Weatherwax (the greatest witch in the world) nor the fierce, six-inch-high Wee Free Men can protect her. In the end, it will take all of Tiffany’s inner strength to save herself… if it can be done at all.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/42-HatFullOfSky.mp3" length="23456789" type="audio/mpeg" />
+            <pubDate>2004-05-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_42</guid>
+        </item>
+        <item>
+            <title>33. Going Postal</title>
+            <description>‘Always push your luck because no one else would push it for you.’
+
+Imprisoned in Ankh-Morpork, con artist Moist von Lipwig is offered a choice: to be executed or to accept a job as the city’s Postmaster General.
+
+It’s a tough decision, but he’s already survived one hanging and isn’t in the mood to try it again.
+
+The Post Office is down on its luck: beset by mountains of undelivered mail, eccentric employees, and a dangerous secret order. To save his skin, Moist will need to restore the postal service to its former glory, with the help of tough talking activist Adora Belle Dearheart. Who happens to be very attractive, in an ‘entire womanful of anger’ kind of way.
+
+But there’s new technology to compete against and an evil chairman who will stop at nothing to delay Ankh-Morpork’s post for good . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/30-GoingPostal.mp3" length="34567890" type="audio/mpeg" />
+            <pubDate>2004-09-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_30</guid>
+        </item>
+        <item>
+            <title>34. Thud!</title>
+            <description>‘Beating people up in little rooms… he knew where that led. And if you did it for a good reason, you’d do it for a bad one. You couldn’t say “we’re the good guys” and do bad-guy things.’
+
+Koom Valley, the ancient battle where the trolls ambushed the dwarfs, or the dwarfs ambushed the trolls, was a long time ago.
+
+But if he doesn’t solve the murder of just one dwarf, Commander Sam Vimes of Ankh-Morpork City Watch is going to see it fought again, right outside his office.
+
+With his beloved Watch crumbling around him and the war-drums sounding, Vimes must unravel every clue, outwit every assassin and brave any darkness to find the solution. And the darkness is following him.
+
+Oh… and at six o’clock every day, without fail, with no excuses, he must go home to read Where’s My Cow?, with all the right farmyard noises, to his little boy.
+
+There are some things you have to do.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/31-Thud.mp3" length="45678901" type="audio/mpeg" />
+            <pubDate>2005-10-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_31</guid>
+        </item>
+        <item>
+            <title>35. Wintersmith</title>
+            <description>‘Crivens!’
+
+Tiffany Aching put one foot wrong, made just one little mistake . . .
+
+And now the spirit of winter is in love with her. He gives her roses and icebergs and showers her with snowflakes, which is tough when you’re thirteen, but also just a little bit… cool.
+
+And if Tiffany doesn’t work out how to deal with him, there will never be another springtime…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/43-Wintersmith.mp3" length="34567890" type="audio/mpeg" />
+            <pubDate>2006-09-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_43</guid>
+        </item>
+        <item>
+            <title>36. Making Money</title>
+            <description>‘Whoever said you can’t fool an honest man wasn’t one.’
+
+The Royal Bank of Ankh-Morpork is facing a crisis and needs a shake-up in management. Cue Moist von Lipwig, Postmaster General and former con artist. If anyone can rescue the city’s ailing financial institution, it’s him. He doesn’t really want the job, but the thing is, he doesn’t have a choice.
+
+Moist has many problems to solve as part of his new role: the chief cashier is almost certainly a vampire, the chairman needs his daily walkies, there’s something strange happening in the cellar, and the Royal Mint is running at a loss.
+
+Moist begins making some ambitious changes . . . and some dangerous enemies. Because money is power and certain stakeholders will do anything to keep a firm grip on both . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/32-MakingMoney.mp3" length="56789012" type="audio/mpeg" />
+            <pubDate>2007-09-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_32</guid>
+        </item>
+        <item>
+            <title>37. Unseen Academicals</title>
+            <description>‘We play and are played and the best we can hope for is to do it with style.’
+
+Football has come to the ancient city of Ankh-Morpork. And now the wizards of Unseen University must win a football match without using magic . . . so they’re in the mood for trying everything else.
+
+To do this, they recruit an unlikely group of players: Trev, a street urchin with a talent for kicking a tin can; Glenda, the night chef who makes a mean pie; Juliet, the kitchen hand turned world’s greatest fashion model; and the mysterious Mr Nutt, who has something powerful, and dark, locked away inside him . . .
+
+And the thing about football – the important thing about football – is that it is not just about football. Here we go, here we go, here we go!</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/33-UnseenAcademicals.mp3" length="67890123" type="audio/mpeg" />
+            <pubDate>2009-10-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_33</guid>
+        </item>
+        <item>
+            <title>38. I Shall Wear Midnight</title>
+            <description>As the witch of the Chalk, Tiffany Aching performs the distinctly unglamorous work of caring for the needy.
+
+But someone – or something – is inciting fear, generating dark thoughts and angry murmurs against witches.
+
+Tiffany must find the source of unrest and defeat the evil at its root. Aided by the tiny-but-tough Wee Free Men, Tiffany faces a dire challenge, for if she falls, the whole Chalk falls with her…</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/44-IShallWearMidnight.mp3" length="45678901" type="audio/mpeg" />
+            <pubDate>2010-09-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_44</guid>
+        </item>
+        <item>
+            <title>39. Snuff</title>
+            <description>‘The jurisdiction of a good man extends to the end of the world.’
+
+It is a truth universally acknowledged that a policeman taking a holiday would barely have had time to open his suitcase before he finds his first corpse.
+
+Commander Sam Vimes of the Ankh-Morpork City Watch is on holiday in the pleasant and innocent countryside, but a body in the wardrobe would be far too simple. Instead he finds many, many bodies –  and an ancient crime more terrible than murder.
+
+He is out of his jurisdiction, out of his depth, out of bacon sandwiches and out of his mind, but never out of guile. Where there is a crime there must be a punishment.
+
+They say that in the end all sins are forgiven. Vimes is about to uncover the exception.</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/34-Snuff.mp3" length="78901234" type="audio/mpeg" />
+            <pubDate>2011-10-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_34</guid>
+        </item>
+        <item>
+            <title>40. Raising Steam</title>
+            <description>‘The world lives between those who say it cannot be done and those who say that it can . . . it’s just a matter of thinking creatively.’
+
+Moist von Lipwig is a con man turned civil servant. As head of the Royal Bank and Post Office of Ankh-Morpork, he doesn’t really want or need another job. But when the Patrician Lord Vetinari gives you a task, you do it or suffer the consequences. In Moist’s case, death.
+
+A brand-new invention has come to the city: a steam locomotive named Iron Girder, to be precise. With the railway’s introduction and rapid expansion, Vetinari enlists Moist to represent the government and keep things on track.
+
+But as with all new technology, some people have objections, and Moist will have to use every trick in his arsenal to keep the trains running . . .</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/35-RaisingSteam.mp3" length="89012345" type="audio/mpeg" />
+            <pubDate>2013-03-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_35</guid>
+        </item>
+        <item>
+            <title>41. The Shepherd's Crown</title>
+            <description>
+
+Deep in the Chalk, something is stirring. The owls and the foxes can sense it, and Tiffany Aching feels it in her boots. An old enemy is gathering strength.
+
+This is a time of endings and beginnings, old friends and new, a blurring of edges and a shifting of power. Now Tiffany stands between the light and the dark, the good and the bad.
+
+As the fairy horde prepares for invasion, Tiffany must summon all the witches to stand with her. To protect the land. Her land.
+
+There will be a reckoning…
+
+The final Discworld novel.
+</description>
+            <enclosure url="https://ia601509.us.archive.org/30/items/discworld-audiobooks/45-TheShepherdsCrown.mp3" length="56789012" type="audio/mpeg" />
+            <pubDate>2015-08-01T00:00:00Z</pubDate>
+            <guid>unique_episode_identifier_45</guid>
+        </item>
+
+    </channel>
+</rss>
