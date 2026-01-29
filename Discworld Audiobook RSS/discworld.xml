@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title>Discworld Audiobooks</title>
         <description>The complete Discworld audiobook collection, sourced from https://archive.org/details/discworld-audiobooks.</description>
