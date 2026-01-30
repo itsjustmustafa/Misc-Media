@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <atom:link href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/main/Discworld%20Audiobook%20RSS/discworld.xml" rel="self" type="application/rss+xml" />
-        <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/main/Discworld%20Audiobook%20RSS/discworld.png" />
         <title>Discworld Audiobooks</title>
         <description>The complete Discworld audiobook collection, sourced from https://archive.org/details/discworld-audiobooks.</description>
         <link>https://archive.org/details/discworld-audiobooks</link>
@@ -15,7 +14,7 @@
         <item>
             <title>1. The Colour of Magic</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/001.png" /><description>‘It was octarine, the colour of magic. It was alive and glowing and vibrant and it was the undisputed pigment of the imagination . . .’
+            <description>‘It was octarine, the colour of magic. It was alive and glowing and vibrant and it was the undisputed pigment of the imagination . . .’
 
 Somewhere between thought and reality exists the Discworld, a magical world not totally unlike our own. Except for the fact that it travels through space on the shoulders of four giant elephants who in turn stand on the shell of an astronomically huge star turtle, of course.
 
@@ -31,7 +30,7 @@ Somewhere between thought and reality exists the Discworld, a magical world not 
         <item>
             <title>2. The Light Fantastic</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/002.png" /><description>‘Darkness isn’t the opposite of light, it is simply its absence . . . what was radiating from the book was the light that lies on the far side of darkness, the light fantastic.’
+            <description>‘Darkness isn’t the opposite of light, it is simply its absence . . . what was radiating from the book was the light that lies on the far side of darkness, the light fantastic.’
 
 The Discworld is in danger, heading towards a seemingly inevitable collision with a malevolent red star, its magic fading. It needs a hero, and fast.
 
@@ -49,7 +48,7 @@ What it doesn’t need is Rincewind, an inept and cowardly wizard who...</itunes
         <item>
             <title>3. Equal Rites</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/003.png" /><description>‘They say a little knowledge is a dangerous thing, but it is not one half so bad as a lot of ignorance.’
+            <description>‘They say a little knowledge is a dangerous thing, but it is not one half so bad as a lot of ignorance.’
 
 Everybody knows there’s no such thing as a female wizard. So when the wizard Drum Billet accidentally passes on his staff of power to an eighth daughter of an eighth son, a girl called Eskarina (Esk, for short), the misogynistic world of wizardry want nothing to do with her.
 
@@ -67,7 +66,7 @@ Thankfully Gra...</itunes:summary><enclosure url="https://ia601509.us.archive.or
         <item>
             <title>4. Mort</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/004.png" /><description>‘YOU CANNOT INTERFERE WITH FATE. WHO ARE YOU TO JUDGE WHO SHOULD LIVE AND WHO SHOULD DIE?’
+            <description>‘YOU CANNOT INTERFERE WITH FATE. WHO ARE YOU TO JUDGE WHO SHOULD LIVE AND WHO SHOULD DIE?’
 
 Death comes to us all. When he came to Mort, he offered him a job.
 
@@ -85,7 +84,7 @@ Death is the Grim Reaper of the Discworld, a black-robed skeleton with a scythe 
         <item>
             <title>5. Sourcery</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/005.png" /><description>‘It’s vital to remember who you really are . . . it isn’t a good idea to rely on other people or things to do it for you, you see. They always get it wrong.’
+            <description>‘It’s vital to remember who you really are . . . it isn’t a good idea to rely on other people or things to do it for you, you see. They always get it wrong.’
 
 
 An eighth son of an eighth son is born, a wizard squared, a source of magic. A sourcerer.
@@ -109,7 +108,7 @@ Unseen University, the Discworld’s most magical establishment, has finally got
         <item>
             <title>6. Wyrd Sisters</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/006.png" /><description>‘Destiny is important, see, but people go wrong when they think it controls them. It’s the other way around.’
+            <description>‘Destiny is important, see, but people go wrong when they think it controls them. It’s the other way around.’
 
 Three witches on a lonely heath. A king cruelly murdered, his throne usurped by his ambitious cousin. A child heir and the royal crown, both missing.
 
@@ -129,7 +128,7 @@ Granny Weatherwax is the most hig...</itunes:summary><enclosure url="https://ia6
         <item>
             <title>7. Pyramids</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/007.png" /><description>‘”LOOK AFTER THE DEAD,” SAID THE PRIESTS, “AND THE DEAD WOULD LOOK AFTER YOU.”‘
+            <description>‘”LOOK AFTER THE DEAD,” SAID THE PRIESTS, “AND THE DEAD WOULD LOOK AFTER YOU.”‘
 
 Young Prince Teppic is sent far away from his desert homeland to the city of Ankh-Morpork for the best education money can buy. Which just so happens to be at the Assassins’ Guild.
 
@@ -147,7 +146,7 @@ But when Teppic’s father dies suddenly, fate takes him away from assassination
         <item>
             <title>8. Guards! Guards!</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/008.png" /><description>‘Vimes ran a practised eye over the assortment before him. It was the usual Ankh-Morpork mob in times of crisis; half of them were here to complain, a quarter of them were here to watch the other half, and the remainder were here to rob, importune or sell hotdogs to the rest.’
+            <description>‘Vimes ran a practised eye over the assortment before him. It was the usual Ankh-Morpork mob in times of crisis; half of them were here to complain, a quarter of them were here to watch the other half, and the remainder were here to rob, importune or sell hotdogs to the rest.’
 
 Insurrection is in the air in the city of Ankh-Morpork. The Haves and Have-Nots are about to fall out all over again.
 
@@ -163,7 +162,7 @@ Insurrection is in the air in the city of Ankh-Morpork. The Haves and Have-Nots 
         <item>
             <title>9. Eric</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/009.png" /><description>Eric calls up a demon to grant him three wishes – but what he gets is the Discworld’s most incompetent wizard…
+            <description>Eric calls up a demon to grant him three wishes – but what he gets is the Discworld’s most incompetent wizard…
 
 Eric is the Discworld’s only demonology hacker. The trouble is, he’s not very good at it. All he wants is the usual three wishes: to be immortal, rule the world and have the most beautiful woman fall madly in love with him. The usual stuff.
 
@@ -179,7 +178,7 @@ But what he gets is Rincewind, the Disc’s m...</itunes:summary><enclosure url=
         <item>
             <title>10. Moving Pictures</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/010.png" /><description>‘HOLY WOOD IS A DIFFERENT SORT OF PLACE . . . HERE, THE MOST IMPORTANT THING IS TO BE IMPORTANT.’
+            <description>‘HOLY WOOD IS A DIFFERENT SORT OF PLACE . . . HERE, THE MOST IMPORTANT THING IS TO BE IMPORTANT.’
 
 A new phenomenon is taking over the Discworld: moving pictures. Created by the alchemists of Ankh-Morpork, the growing ‘clicks’ industry moves to the sandy land of Holy Wood, attracted by the light of the sun and some strange calling no one can quite put their finger on…
 
@@ -197,7 +196,7 @@ Also drawn to Holy Wood a...</itunes:summary><enclosure url="https://ia601509.us
         <item>
             <title>11. Reaper Man</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/011.png" /><description>‘Inside every living person is a dead person waiting to get out.’
+            <description>‘Inside every living person is a dead person waiting to get out.’
 
 Death has been fired by the Auditors of Reality for the heinous crime of developing . . . a personality. Sent to live like everyone else, Death takes a new name and begins working as a farmhand. He’s got the scythe already, after all.
 
@@ -215,7 +214,7 @@ And for humanity, Death is just . . . gone. Which leads to the kind of chaos you
         <item>
             <title>12. Witches Abroad</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/012.png" /><description>‘You can’t go around building a better world for people. Only people can build a better world for people. Otherwise it’s just a cage.’
+            <description>‘You can’t go around building a better world for people. Only people can build a better world for people. Otherwise it’s just a cage.’
 
 There’s power in stories. The fairy godmother is good. The servant girl marries the prince. Everyone lives happily ever after . . . don’t they?
 
@@ -233,7 +232,7 @@ The witches Granny Weatherwax, Nanny Ogg and Magrat Garlick are travelling to fa
         <item>
             <title>13. Small Gods</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/013.png" /><description>‘You should do things because they’re right. Not because gods say so. They might say something different another time.’
+            <description>‘You should do things because they’re right. Not because gods say so. They might say something different another time.’
 
 Religion is a competitive business in the Discworld. Everyone has their own opinion and their own gods, of every shape and size – all fighting for faith, followers, and a place at the top.
 
@@ -251,7 +250,7 @@ So when the great god Om accidentally manifests himself as a lowly tortoise, str
         <item>
             <title>14. Lords and Ladies</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/014.png" /><description>‘People didn’t seem to be able to remember what it was like with the elves around. Life was certainly more interesting then, but usually because it was shorter. And it was more colourful, if you liked the colour of blood . . .’
+            <description>‘People didn’t seem to be able to remember what it was like with the elves around. Life was certainly more interesting then, but usually because it was shorter. And it was more colourful, if you liked the colour of blood . . .’
 
 On Midsummer Night, dreams are especially powerful. So powerful, in fact, that they can cause the walls between realities to come crashing down. And some things you really don’t want to break through.
 
@@ -282,7 +281,7 @@ The City Watch needs MEN! But what it’s got includes Corporal Carrot (technica
         <item>
             <title>16. Soul Music</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/016.png" /><description>‘This didn’t feel like magic. It felt a lot older than that. It felt like music.’
+            <description>‘This didn’t feel like magic. It felt a lot older than that. It felt like music.’
 
 Being sixteen is always difficult, but it’s even more so when there’s a Death in the family. Susan hasn’t exactly had a normal upbringing, with a skeletal grandfather who rides a white horse and wields a scythe.
 
@@ -302,7 +301,7 @@ When Death decides he needs a well-earned break, he leaves Susan to take over th
         <item>
             <title>17. Interesting Times</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/017.png" /><description>‘There is a curse. They say: may you live in interesting times . . .’
+            <description>‘There is a curse. They say: may you live in interesting times . . .’
 
 This is the worst thing you can wish on a citizen of Discworld. Especially for the magically challenged Rincewind, who has already had far too much excitement in his life.
 
@@ -320,7 +319,7 @@ Unfortunately, the unlucky wizard always seems to end up in the middle of, well,
         <item>
             <title>18. Maskerade</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/018.png" /><description>‘There’s a kind of magic in masks. Masks conceal one face, but they reveal another. The one that only comes out in darkness …’
+            <description>‘There’s a kind of magic in masks. Masks conceal one face, but they reveal another. The one that only comes out in darkness …’
 
 The Opera House in Ankh-Morpork is home to music, theatrics and a harmless masked Ghost who lurks behind the scenes. But now a set of mysterious backstage murders may just stop the show.
 
@@ -357,7 +356,7 @@ Right now, it’s the latter. There’s...</itunes:summary><enclosure url="https
         <item>
             <title>20. Hogfather</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/020.png" /><description>‘Humans need fantasy to be human. To be the place where the falling angel meets the rising ape.’
+            <description>‘Humans need fantasy to be human. To be the place where the falling angel meets the rising ape.’
 
 ‘Twas the night before Hogswatch and all through the house . . . something was missing.
 
@@ -375,7 +374,7 @@ Superstition makes things work in the Discworld and undermining it can have cons
         <item>
             <title>21. Jingo</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/021.png" /><description>‘Neighbours… hah. People’d live for ages side by side, nodding at one another amicably on their way to work, and then some trivial thing would happen and someone would be having a garden fork removed from their ear.’
+            <description>‘Neighbours… hah. People’d live for ages side by side, nodding at one another amicably on their way to work, and then some trivial thing would happen and someone would be having a garden fork removed from their ear.’
 
 When the neighbours in question are the proud empires of Klatch and Ankh-Morpork, those are going to be some pretty large garden tools indeed. Of course, no one would dream of starting a war without a perfectly good reason… such as a ‘strategic’ piece of old rock in the middle of nowhere.
 
@@ -389,7 +388,7 @@ When the neighbours in question are the proud empires of Klatch and Ankh-Morpork
         <item>
             <title>22. The Last Continent</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/022.png" /><description>‘Anything you do in the past changes the future. The tiniest little actions have huge consequences. You might tread on an ant now and it might entirely prevent someone from being born in the future.’
+            <description>‘Anything you do in the past changes the future. The tiniest little actions have huge consequences. You might tread on an ant now and it might entirely prevent someone from being born in the future.’
 
 Rincewind, inept wizard and reluctant hero, has found himself magically stranded on the Discworld’s last continent.
 
@@ -407,7 +406,7 @@ It’s hot. It’s dry. There was this thing once called The Wet, which no one b
         <item>
             <title>23. Carpe Jugulum</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/023.png" /><description>‘“Carpe Jugulum,”’ read Agnes aloud. ‘That’s . . . well, Carpe Diem is Seize the Day, so this means—’
+            <description>‘“Carpe Jugulum,”’ read Agnes aloud. ‘That’s . . . well, Carpe Diem is Seize the Day, so this means—’
 “Go for the Throat . . .”’
 
 Vampires have come to Lancre, but they’re not what you’d expect. Sure, they drink blood and view humans as dinner, but they’re modern and sophisticated. They’ve got style and fancy waistcoats. And they’re not a bit afraid of garlic.
@@ -427,7 +426,7 @@ The Magpyr family are out of the...</itunes:summary><enclosure url="https://ia60
         <item>
             <title>24. The Fifth Elephant</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/024.png" /><description>‘Well, he thought, so this is diplomacy. It’s lying, only for a better class of people.’
+            <description>‘Well, he thought, so this is diplomacy. It’s lying, only for a better class of people.’
 
 They say that diplomacy is a gentle art. That mastering it is a lifetime’s work. But you do need a certain inclination in that direction. It’s not something you can just pick up on the job.
 
@@ -447,7 +446,7 @@ A few days ago Sam Vimes was a copper – an important copper, true – chief of
         <item>
             <title>25. The Truth</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/025.png" /><description>‘A lie can run round the world before the truth can get its boots on.’
+            <description>‘A lie can run round the world before the truth can get its boots on.’
 
 William de Worde has somehow found himself editor of Ankh-Morpork’s first newspaper. Well, with a name like that . . .
 
@@ -484,7 +483,7 @@ On the Discworld, the History Monks have the important job of ensuring that tomo
         <item>
             <title>27. The Last Hero</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/027.png" /><description>Cohen the Barbarian, with his ancient sword, his walking stick, is going on one final quest.
+            <description>Cohen the Barbarian, with his ancient sword, his walking stick, is going on one final quest.
             
 Cohen can remember when a hero didn’t have to worry about fences and lawyers and civilisation, and when people didn’t tell you off for killing dragons. But he can’t always remember, these days, where he put his teeth…
 
@@ -502,7 +501,7 @@ So now, with his ancient sword and his new walking stick and his old fri...</itu
         <item>
             <title>28. The Amazing Maurice and his Educated Rodents</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/028.png" /><description>IT’S A RAT-EAT-RAT WORLD…
+            <description>IT’S A RAT-EAT-RAT WORLD…
 
 Maurice, a streetwise tomcat, has the perfect money-making scam. Everyone knows the stories about rats and pipers, and Maurice has a stupid-looking kid with a pipe, and his very own plague of rats—strangely educated rats…
 
@@ -522,7 +521,7 @@ But in Bad Blintz, the little con suddenly goes down the drain. For someone ther
         <item>
             <title>29. Night Watch</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/029.png" /><description>For a policeman, there can be few things worse than a serial killer loose in your city. Except, perhaps, a serial killer who targets coppers, and a city on the brink of bloody revolution.
+            <description>For a policeman, there can be few things worse than a serial killer loose in your city. Except, perhaps, a serial killer who targets coppers, and a city on the brink of bloody revolution.
 
 For Commander Sam Vimes, it all feels horribly familiar. Caught on the roof of a very magical building during a storm, he’s found himself back in his own rough, tough past without even the clothes he was standing up in when the lightning struck. Living in the past is hard, especially when your time travel companion is a serial killer who knows where you live. But he must survive, because he has a job to do: track down the murderer and change the outcome of the rebellion.
 
@@ -536,7 +535,7 @@ For Commander Sam Vimes, it all feels horribly familiar. Caught on the roof of a
         <item>
             <title>30. The Wee Free Men</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/030.png" /><description>Armed with only a frying pan and her common sense, young witch-to-be Tiffany Aching must defend her home against the monsters of Fairyland. Luckily she has some very unusual help: the local Nac Mac Feegle – aka the Wee Free Men – a clan of fierce, sheep-stealing, sword-wielding, six-inch-high blue men.
+            <description>Armed with only a frying pan and her common sense, young witch-to-be Tiffany Aching must defend her home against the monsters of Fairyland. Luckily she has some very unusual help: the local Nac Mac Feegle – aka the Wee Free Men – a clan of fierce, sheep-stealing, sword-wielding, six-inch-high blue men.
 
 Together they must face headless horsemen, ferocious grimhounds, terrifying dreams come true, and ultimately the sinister Queen of the Elves herself…</description>
             <itunes:summary>Armed with only a frying pan and her common sense, young witch-to-be Tiffany Aching must defend her home against the monsters of Fairyland. Luckily she has some very unusual help: the local Nac Mac Feegle – aka the Wee Free Men – a clan of fierce, sheep-stealing, sword-wielding, six-inch-high blue men.
@@ -548,7 +547,7 @@ Together they must face headless horsemen, ferocious grimhounds, terrifying drea
 		<item>
             <title>31. Monstrous Regiment</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/031.png" /><description>‘That’s the trouble about the good guys and the bad guys! They’re all guys!’
+            <description>‘That’s the trouble about the good guys and the bad guys! They’re all guys!’
 
 In the small yet aggressive country of Borogravia, there are strict rules citizens must follow. For a start, women belong in the kitchen – not in jobs, pubs, or indeed trousers. And certainly not on the front line.
 
@@ -568,7 +567,7 @@ Polly Perks has to become a boy in a hurry if she wants to find her missing brot
         <item>
             <title>32. A Hat Full of Sky</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/032.png" /><description>Tiffany Aching is ready to begin her apprenticeship in magic. She expects spells and magic – not chores and ill-tempered goats! Surely there must be more to witchcraft than this.
+            <description>Tiffany Aching is ready to begin her apprenticeship in magic. She expects spells and magic – not chores and ill-tempered goats! Surely there must be more to witchcraft than this.
 
 What Tiffany doesn’t know is that an insidious, disembodied creature is pursuing her. This time, neither Mistress Weatherwax (the greatest witch in the world) nor the fierce, six-inch-high Wee Free Men can protect her. In the end, it will take all of Tiffany’s inner strength to save herself… if it can be done at all.</description>
             <itunes:summary>Tiffany Aching is ready to begin her apprenticeship in magic. She expects spells and magic – not chores and ill-tempered goats! Surely there must be more to witchcraft than this.
@@ -580,7 +579,7 @@ What Tiffany doesn’t know is that an insidious, disembodied creature is pursui
         <item>
             <title>33. Going Postal</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/033.png" /><description>‘Always push your luck because no one else would push it for you.’
+            <description>‘Always push your luck because no one else would push it for you.’
 
 Imprisoned in Ankh-Morpork, con artist Moist von Lipwig is offered a choice: to be executed or to accept a job as the city’s Postmaster General.
 
@@ -602,7 +601,7 @@ The Post Office is down on its luck: beset by mountains of undelivered mail, ecc
         <item>
             <title>34. Thud!</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/034.png" /><description>‘Beating people up in little rooms… he knew where that led. And if you did it for a good reason, you’d do it for a bad one. You couldn’t say “we’re the good guys” and do bad-guy things.’
+            <description>‘Beating people up in little rooms… he knew where that led. And if you did it for a good reason, you’d do it for a bad one. You couldn’t say “we’re the good guys” and do bad-guy things.’
 
 Koom Valley, the ancient battle where the trolls ambushed the dwarfs, or the dwarfs ambushed the trolls, was a long time ago.
 
@@ -624,7 +623,7 @@ But if he doesn’t solve the murder of just one dwarf, Commander Sam Vimes of A
         <item>
             <title>35. Wintersmith</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/035.png" /><description>‘Crivens!’
+            <description>‘Crivens!’
 
 Tiffany Aching put one foot wrong, made just one little mistake . . .
 
@@ -644,7 +643,7 @@ And if Tiffany doesn’t work out how to deal with him, there will never be anot
         <item>
             <title>36. Making Money</title>
             
-            <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/036.png" /><description>‘Whoever said you can’t fool an honest man wasn’t one.’
+            <description>‘Whoever said you can’t fool an honest man wasn’t one.’
 
 The Royal Bank of Ankh-Morpork is facing a crisis and needs a shake-up in management. Cue Moist von Lipwig, Postmaster General and former con artist. If anyone can rescue the city’s ailing financial institution, it’s him. He doesn’t really want the job, but the thing is, he doesn’t have a choice.
 
