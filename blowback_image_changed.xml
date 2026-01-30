@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/ARML4460792039" rel="self" type="application/rss+xml"/>
+    <title>Blowback copy</title>
+    <link>https://redcircle.com/shows/blowback</link>
+    <language>en-US</language>
+    <copyright>2022 Blowback</copyright>
+    <description>A podcast about the American Empire.</description>
+    <image>
+      <url>https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/main/Discworld%20Audiobook%20RSS/discworld.png</url>
+      <title>Blowback</title>
+      <link>https://redcircle.com/shows/blowback</link>
+    </image>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle/>
+    <itunes:author>Blowback</itunes:author>
+    <itunes:summary>A podcast about the American Empire.</itunes:summary>
+    <content:encoded>
+      <![CDATA[A podcast about the American Empire.]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Blowback</itunes:name>
+      <itunes:email>blowbackpod@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/main/Discworld%20Audiobook%20RSS/discworld.png"/>
+    <itunes:category text="Society &amp; Culture">
+    </itunes:category>
+    <item>
+      <title>S6 Episode 7 - "Constellation"</title>
+      <description>Reagan arrives, emboldening South Africa and Savimbi. The MPLA hangs on. Cuba recommits.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 26 Jan 2026 11:00:00 -0000</pubDate>
+      <itunes:title>S6 Episode 7 - "Constellation"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/main/Discworld%20Audiobook%20RSS/discworld.png"/>
+      <itunes:subtitle>Reagan arrives, emboldening South Africa and Savimbi. The MPLA hangs on. Cuba recommits.</itunes:subtitle>
+      <itunes:summary>Reagan arrives, emboldening South Africa and Savimbi. The MPLA hangs on. Cuba recommits.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Reagan arrives, emboldening South Africa and Savimbi. The MPLA hangs on. Cuba recommits.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3950</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[2064bca8-e9b2-11f0-b61c-bb4c2ece2b9b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2275143034.mp3?updated=1767561797" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S6 Episode 6 - "Total Onslaught"</title>
+      <description>Carter goes Cold Warrior. Savimbi visits Washington. Angola loses a founding father.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 19 Jan 2026 11:00:00 -0000</pubDate>
+      <itunes:title>S6 Episode 6 - "Total Onslaught"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/001.png"/>
+      <itunes:subtitle>Carter goes Cold Warrior. Savimbi visits Washington. Angola loses a founding father.</itunes:subtitle>
+      <itunes:summary>Carter goes Cold Warrior. Savimbi visits Washington. Angola loses a founding father.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Carter goes Cold Warrior. Savimbi visits Washington. Angola loses a founding father.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4049</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[5807d6d2-e9b1-11f0-8986-fba1141e40fa]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML5730483550.mp3?updated=1767561475" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S6 Episode 5 - "Kicking the Dog"</title>
+      <description>The MPLA and Jimmy Carter struggle to find their footing. Jonas Savimbi licks his wounds.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 12 Jan 2026 11:00:00 -0000</pubDate>
+      <itunes:title>S6 Episode 5 - "Kicking the Dog"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/002.png"/>
+      <itunes:subtitle>The MPLA and Jimmy Carter struggle to find their footing. Jonas Savimbi licks his wounds.</itunes:subtitle>
+      <itunes:summary>The MPLA and Jimmy Carter struggle to find their footing. Jonas Savimbi licks his wounds.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The MPLA and Jimmy Carter struggle to find their footing. Jonas Savimbi licks his wounds.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4711</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[1076401a-e9b1-11f0-9dae-4fa45373876f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2852004685.mp3?updated=1767561346" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S6 Episode 4 - "Zulu &amp; Foxbat"</title>
+      <description>South Africa invades. Cuba intervenes. Angola becomes independent.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 05 Jan 2026 11:00:00 -0000</pubDate>
+      <itunes:title>S6 Episode 4 - "Zulu &amp; Foxbat"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/003.png"/>
+      <itunes:subtitle>South Africa invades. Cuba intervenes. Angola becomes independent.</itunes:subtitle>
+      <itunes:summary>South Africa invades. Cuba intervenes. Angola becomes independent.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>South Africa invades. Cuba intervenes. Angola becomes independent.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4727</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[bcb36d14-e9af-11f0-98ef-b36634a1e7e0]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML6204289430.mp3?updated=1767560704" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Coming Soon: No Daylight</title>
+      <description>What lies ahead for Blowback in 2026? A mini-series on Israel and America, a comic book, our seventh season and more.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 29 Dec 2025 13:54:00 -0000</pubDate>
+      <itunes:title>Coming Soon: No Daylight</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/004.png"/>
+      <itunes:subtitle>What lies ahead for Blowback in 2026? A first-ever mini-series, a comic book, our seventh season, and more.</itunes:subtitle>
+      <itunes:summary>What lies ahead for Blowback in 2026? A mini-series on Israel and America, a comic book, our seventh season and more.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>What lies ahead for Blowback in 2026? A mini-series on Israel and America, a comic book, our seventh season and more.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>72</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[ea79b6e0-e46e-11f0-a16a-37af7c54f59f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML5618366511.mp3?updated=1766983070" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S6 Episode 3 - "The Stand"</title>
+      <description>Angolan anti-colonial rebels challenge Portugal. Cuba brings its revolution to Africa.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 29 Dec 2025 11:00:00 -0000</pubDate>
+      <itunes:title>S6 Episode 3 - "The Stand"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/005.png"/>
+      <itunes:subtitle>Angolan anti-colonial rebels challenge Portugal. Cuba brings its revolution to Africa.</itunes:subtitle>
+      <itunes:summary>Angolan anti-colonial rebels challenge Portugal. Cuba brings its revolution to Africa.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Angolan anti-colonial rebels challenge Portugal. Cuba brings its revolution to Africa.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4697</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e7e5f610-e46d-11f0-8a34-d338e7c1d9d5]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML7279011764.mp3?updated=1766983090" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S6 Episode 2 - "Economy of Terror"</title>
+      <description>A look into the Portuguese empire in southern Africa and the stirrings of nationalism in Angola.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 22 Dec 2025 11:00:00 -0000</pubDate>
+      <itunes:title>S6 Episode 2 - "Economy of Terror"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/006.png"/>
+      <itunes:subtitle>A look into the Portuguese empire in southern Africa and the stirrings of nationalism in Angola.</itunes:subtitle>
+      <itunes:summary>A look into the Portuguese empire in southern Africa and the stirrings of nationalism in Angola.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A look into the Portuguese empire in southern Africa and the stirrings of nationalism in Angola.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3776</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[42ca6050-dee9-11f0-838f-c7e82745b7e4]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML3482919314.mp3?updated=1766375979" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S6 Episode 1 - "The Dead Myth"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/64b58601-6184-45fe-8c73-4c3afc3f6839</link>
+      <description>An introduction to and overview of our sixth season: the story of Angola, Cuba, and apartheid South Africa's Cold War showdown.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 22 Sep 2025 13:00:55 -0000</pubDate>
+      <itunes:title>S6 Episode 1 - "The Dead Myth"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/007.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>An introduction to and overview of our sixth season: the story of Angola, Cuba, and apartheid South Africa's Cold War showdown.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>An introduction to and overview of our sixth season: the story of Angola, Cuba, and apartheid South Africa's Cold War showdown.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3005</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c8af937d-f4e1-43bc-b73f-ff7857330ffd]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML4322672149.mp3?updated=1763942210" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Coming Soon: Blowback Season 6</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/bc248eee-0892-4155-b092-c77c97ffe4b0</link>
+      <description>New episodes drop September 22. This season, Cuba sends an army to defend newly independent Angola from the combined forces of apartheid South Africa, the CIA, and one of the most infamous warlords of Africa.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 10 Sep 2025 17:15:37 -0000</pubDate>
+      <itunes:title>Coming Soon: Blowback Season 6</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/008.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>New episodes drop September 22. This season, Cuba sends an army to defend newly independent Angola from the combined forces of apartheid South Africa, the CIA, and one of the most infamous warlords of Africa.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>New episodes drop September 22. This season, Cuba sends an army to defend newly independent Angola from the combined forces of apartheid South Africa, the CIA, and one of the most infamous warlords of Africa.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[f6429f8c-0eee-4ca9-962d-e457affd0684]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML7662855561.mp3?updated=1766375917" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 10 - "The Terrible But Unfinished Story"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/95cd91e0-531e-4ae0-a049-3ed2b9601bad</link>
+      <description>Wounded but not destroyed, Cambodia staggers into the 21st century.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 14 Feb 2025 11:35:32 -0000</pubDate>
+      <itunes:title>S5 Episode 10 - "The Terrible But Unfinished Story"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/009.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Wounded but not destroyed, Cambodia staggers into the 21st century.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Wounded but not destroyed, Cambodia staggers into the 21st century.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4240</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[d5bd2511-ca0a-43dc-94e5-f5e526768b51]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML3381742699.mp3?updated=1763942190" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 9 - "Le Cercle Rouge"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/fac20192-88e8-46de-b26c-b8ecd2b084ac</link>
+      <description>Vietnam ends Democratic Kampuchea and the US backs the Khmer Rouge.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 07 Feb 2025 11:10:00 -0000</pubDate>
+      <itunes:title>S5 Episode 9 - "Le Cercle Rouge"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/010.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Vietnam ends Democratic Kampuchea and the US backs the Khmer Rouge.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Vietnam ends Democratic Kampuchea and the US backs the Khmer Rouge.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4252</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[901e379d-9b6b-47fa-9838-1bcd23995bd1]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2648452856.mp3?updated=1763942125" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 8 - "Third World War"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/1f9b45e7-2d53-4843-87b0-fcb0f836bdcb</link>
+      <description>Khmer Rouge horrors spiral toward conflict with an ex-comrade: Vietnam.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 31 Jan 2025 11:15:00 -0000</pubDate>
+      <itunes:title>S5 Episode 8 - "Third World War"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/011.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Khmer Rouge horrors spiral toward conflict with an ex-comrade: Vietnam.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Khmer Rouge horrors spiral toward conflict with an ex-comrade: Vietnam.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4628</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[6a3e6b45-7c1a-40e7-9b9a-7c1a92a5bbcd]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML6208623308.mp3?updated=1763942066" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 7 - "Less Than Zero"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/3726ca84-7dfb-4f42-a4c3-f3c0c3f485d6</link>
+      <description>Cambodia slips into darkness, as the Khmer Rouge seize the country.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 24 Jan 2025 11:20:00 -0000</pubDate>
+      <itunes:title>S5 Episode 7 - "Less Than Zero"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/012.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Cambodia slips into darkness, as the Khmer Rouge seize the country.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Cambodia slips into darkness, as the Khmer Rouge seize the country.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4278</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[f6187eb2-66e7-4b71-a9a7-191c546278fc]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2272257760.mp3?updated=1763942005" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 6 - "Dream Warriors"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/d0f8214e-72f0-4321-af95-f178fd1120a8</link>
+      <description>The short-lived reign of the Khmer Republic; the end of Nixon.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 17 Jan 2025 11:15:00 -0000</pubDate>
+      <itunes:title>S5 Episode 6 - "Dream Warriors"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/013.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The short-lived reign of the Khmer Republic; the end of Nixon.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The short-lived reign of the Khmer Republic; the end of Nixon.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4464</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[97b24747-0b54-45bd-9e74-ac716a91f849]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML1791819937.mp3?updated=1763941931" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 5 - "Last Tango In Paris"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/a088caf0-5ad2-4498-9c81-a140fc9c9353</link>
+      <description>One Cambodian coup, two US invasions and an unlikely American friend: China.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 10 Jan 2025 11:15:00 -0000</pubDate>
+      <itunes:title>S5 Episode 5 - "Last Tango In Paris"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/014.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>One Cambodian coup, two US invasions and an unlikely American friend: China.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>One Cambodian coup, two US invasions and an unlikely American friend: China.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4159</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c6485551-2177-4f85-9326-7529c6ae97ba]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML8349163077.mp3?updated=1763941866" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 4 - "Mad Men"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/85ff1252-f265-4cad-82ce-5f0dee622b6d</link>
+      <description>Nixon and Kissinger put Cambodia on the menu.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 03 Jan 2025 11:30:00 -0000</pubDate>
+      <itunes:title>S5 Episode 4 - "Mad Men"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/016.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Nixon and Kissinger put Cambodia on the menu.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Nixon and Kissinger put Cambodia on the menu.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4531</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[81bf8582-6a57-4279-801d-c0c787072a73]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML9419096477.mp3?updated=1763941805" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 3 - "Listen to the Thunder"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/da860fe0-6e50-4629-b82a-cce86970bb5c</link>
+      <description>Sihanouk struggles to keep Cambodia out of LBJ's war in Vietnam.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 27 Dec 2024 11:30:00 -0000</pubDate>
+      <itunes:title>S5 Episode 3 - "Listen to the Thunder"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/017.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Sihanouk struggles to keep Cambodia out of LBJ's war in Vietnam.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Sihanouk struggles to keep Cambodia out of LBJ's war in Vietnam.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4460</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c1c3746c-bad1-4849-99c9-a01c006b7ab8]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2980890575.mp3?updated=1763941771" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 2 - "The French Connection"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/a14d8d70-e7f9-4e2c-ab01-e1b53014381c</link>
+      <description>Indochina rises up, the French Empire ends, the Cold War begins.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 20 Dec 2024 11:05:00 -0000</pubDate>
+      <itunes:title>S5 Episode 2 - "The French Connection"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/018.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Indochina rises up, the French Empire ends, the Cold War begins.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Indochina rises up, the French Empire ends, the Cold War begins.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3851</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c0f02b02-47f0-4934-bd30-6fe14dc4cd7a]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML5003965097.mp3?updated=1763941692" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S5 Episode 1 - "The Wolves Are Closing In"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/594afb9c-e42a-4bb3-a716-3142a114a4d9</link>
+      <description>A prelude and a primer to this season's story: the tragedy of Cambodia.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 20 Sep 2024 10:55:00 -0000</pubDate>
+      <itunes:title>S5 Episode 1 - "The Wolves Are Closing In"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/020.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>A prelude and a primer to this season's story: the tragedy of Cambodia.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A prelude and a primer to this season's story: the tragedy of Cambodia.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2877</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c5a5341f-0158-4d8f-8b79-114c801735bf]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML1216468260.mp3?updated=1763941589" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 10 - "The Phantom Pain"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/7f1aa117-8e29-4cb5-a499-2352894d7b1c</link>
+      <description>Donald Trump cuts a deal with the Taliban — and America begins its withdrawal.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 10 Jan 2024 08:30:00 -0000</pubDate>
+      <itunes:title>S4 Episode 10 - "The Phantom Pain"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/021.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Donald Trump cuts a deal with the Taliban — and America begins its withdrawal.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Donald Trump cuts a deal with the Taliban — and America begins its withdrawal.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3865</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[1abe8625-fad8-4d9b-9b36-3493610b552e]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML1863376299.mp3?updated=1763941397" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 9 - "Peace Walker"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/5a626359-8754-41c3-95d5-8d2c7c9b31ac</link>
+      <description>The Obama administration promises victory in ‘The Good War.’
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 03 Jan 2024 08:30:00 -0000</pubDate>
+      <itunes:title>S4 Episode 9 - "Peace Walker"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/022.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The Obama administration promises victory in ‘The Good War.’
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The Obama administration promises victory in ‘The Good War.’</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4424</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[ae75b839-2ad5-41c0-95a7-23ab5a55a173]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML8040449326.mp3?updated=1763941338" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 8 - "Sons of Liberty"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/bb241fd8-6e9f-45dd-b754-5bce7988a262</link>
+      <description>America runs its war in Afghanistan on the cheap — and subcontracts to crooks, kingpins, and gangsters.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 27 Dec 2023 08:30:00 -0000</pubDate>
+      <itunes:title>S4 Episode 8 - "Sons of Liberty"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/023.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>America runs its war in Afghanistan on the cheap — and subcontracts to crooks, kingpins, and gangsters.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>America runs its war in Afghanistan on the cheap — and subcontracts to crooks, kingpins, and gangsters.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4392</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[88d93d1c-d89c-47f0-9253-7d66a1fa8681]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML7659328487.mp3?updated=1763941209" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 7 - "Guns of the Patriots"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/4bc01972-0b76-48c3-8ddd-0b90a04ffb68</link>
+      <description>The Bush administration unleashes the first war of the 21st century.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 20 Dec 2023 08:30:00 -0000</pubDate>
+      <itunes:title>S4 Episode 7 - "Guns of the Patriots"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/024.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The Bush administration unleashes the first war of the 21st century.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The Bush administration unleashes the first war of the 21st century.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4101</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3f4d55b5-b1b3-49ac-895d-19c2915b47b8]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2268450122.mp3?updated=1763941157" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 6 - "Ground Zeroes"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/d237afe2-fa63-4146-a1e9-fdbef9bd84c8</link>
+      <description>The Afghan jihad spreads to Europe, Asia, Africa, and America.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 13 Dec 2023 20:20:00 -0000</pubDate>
+      <itunes:title>S4 Episode 6 - "Ground Zeroes"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/025.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The Afghan jihad spreads to Europe, Asia, Africa, and America.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The Afghan jihad spreads to Europe, Asia, Africa, and America.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4027</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[fe60a8e1-388a-4615-8a8e-2c151ed054dc]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML4967041037.mp3?updated=1763941080" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 5 - "We Can Live With That"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/a0cee00a-a93d-474e-8147-4b6f0339c460</link>
+      <description>The warlord years, and the rise of the Taliban.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 06 Dec 2023 08:15:00 -0000</pubDate>
+      <itunes:title>S4 Episode 5 - "We Can Live With That"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/027.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The warlord years, and the rise of the Taliban.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The warlord years, and the rise of the Taliban.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4019</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[312fd74e-50e4-4fe1-a13e-c69197239432]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML5880214437.mp3?updated=1763941029" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 4 - "They're Yours Now"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/939109d3-db7e-4f3d-b69b-79b79351e19e</link>
+      <description>Operation Cyclone whips through Afghanistan — until a deal is finally struck.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 29 Nov 2023 08:15:00 -0000</pubDate>
+      <itunes:title>S4 Episode 4 - "They're Yours Now"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/028.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Operation Cyclone whips through Afghanistan — until a deal is finally struck.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Operation Cyclone whips through Afghanistan — until a deal is finally struck.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4403</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[09027698-bb09-47bf-85bc-8e022a9e53fe]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML5254423571.mp3?updated=1763941015" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 3 - "The Trap"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/3fe2e29a-b669-4a7b-8f4d-0fab325d2735</link>
+      <description>The USSR invades, and the Safari Club kicks things up a notch.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 22 Nov 2023 19:33:00 -0000</pubDate>
+      <itunes:title>S4 Episode 3 - "The Trap"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/029.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The USSR invades, and the Safari Club kicks things up a notch.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The USSR invades, and the Safari Club kicks things up a notch.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3840</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[a9e095c5-db5b-47cf-a27f-724af84137f9]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML8230113835.mp3?updated=1763940942" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 2 - "Bleeders and Dealers"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/5012b977-4f06-40b4-b2d1-be153d0bdebc</link>
+      <description>The build-up to the Soviet invasion of Afghanistan.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 15 Nov 2023 16:00:00 -0000</pubDate>
+      <itunes:title>S4 Episode 2 - "Bleeders and Dealers"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/030.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The build-up to the Soviet invasion of Afghanistan.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The build-up to the Soviet invasion of Afghanistan.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4415</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[25256784-49b3-45f5-b4d9-187220c39c7f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML7240063732.mp3?updated=1763940758" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S4 Episode 1 - "Snake Eater"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/ee038078-27ba-4363-9661-94f829aad78a</link>
+      <description>Welcome to Season 4: Afghanistan.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 25 Aug 2023 11:05:00 -0000</pubDate>
+      <itunes:title>S4 Episode 1 - "Snake Eater"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/031.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Welcome to Season 4: Afghanistan.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Welcome to Season 4: Afghanistan.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2809</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[328a221f-a0ea-43e1-8240-ed8fb753b128]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML6967613441.mp3?updated=1763940659" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 10 - "The Host"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/828793f5-157e-4763-a037-c19ff29df6e6</link>
+      <description>The armistice in Korea is supposed to be temporary. But a peace treaty never comes. As decades roll on, the war becomes permanent.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 28 Nov 2022 09:00:00 -0000</pubDate>
+      <itunes:title>S3 Episode 10 - "The Host"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/032.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The armistice in Korea is supposed to be temporary. But a peace treaty never comes. As decades roll on, the war becomes permanent.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The armistice in Korea is supposed to be temporary. But a peace treaty never comes. As decades roll on, the war becomes permanent.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>5987</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[6402c95a-2c41-4bab-8104-986696a32398]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML3137646488.mp3?updated=1763940379" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 9 - "No More Targets"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/6733dc2e-67fa-4db4-b521-8e4400f35357</link>
+      <description>Stalemate on the battlefield does not stop the United States from obliterating North Korea.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 21 Nov 2022 16:02:00 -0000</pubDate>
+      <itunes:title>S3 Episode 9 - "No More Targets"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/033.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Stalemate on the battlefield does not stop the United States from obliterating North Korea.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Stalemate on the battlefield does not stop the United States from obliterating North Korea.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4648</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[07845b57-79d5-4bbe-8ce5-f83946828b02]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2816727241.mp3?updated=1763940205" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 8 - "American Caesar"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/2704b49b-d7c5-4360-a4da-b7cff7df7f0b</link>
+      <description>President Truman and his “Big General in the Far East” enter their final standoff over the war.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 14 Nov 2022 12:10:00 -0000</pubDate>
+      <itunes:title>S3 Episode 8 - "American Caesar"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/034.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>President Truman and his “Big General in the Far East” enter their final standoff over the war.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>President Truman and his “Big General in the Far East” enter their final standoff over the war.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>5133</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[6451e0be-722a-48e8-9ca7-7de4ca193d77]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML6985309315.mp3?updated=1763940195" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 7 - "Mao's Poem"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/cd75fad2-b8d4-4aba-a927-8ca64a16a57c</link>
+      <description>The US threatens to cross the Yalu. The Chinese leadership debates its options in Korea.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 07 Nov 2022 14:30:00 -0000</pubDate>
+      <itunes:title>S3 Episode 7 - "Mao's Poem"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/035.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The US threatens to cross the Yalu. The Chinese leadership debates its options in Korea.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The US threatens to cross the Yalu. The Chinese leadership debates its options in Korea.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4071</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[d8642d1e-2c17-44b7-9d35-e829019c8a14]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML4717784822.mp3?updated=1763940131" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 6 - "National Smile Week"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/645a1778-0d12-4706-a804-fdec75c74022</link>
+      <description>Gen. MacArthur executes his revenge.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 31 Oct 2022 10:00:00 -0000</pubDate>
+      <itunes:title>S3 Episode 6 - "National Smile Week"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/036.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Gen. MacArthur executes his revenge.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Gen. MacArthur executes his revenge.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4048</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[d3881815-f33c-44f7-9f09-eebcac3c5638]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML4802848535.mp3?updated=1763940068" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 5 - “Train to Busan”</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/3906f025-88f1-446f-9689-3d86fe9bac44</link>
+      <description>With a rightwing, US-backed klepto-case to his South, Kim Il-Sung bets the house.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 24 Oct 2022 10:00:00 -0000</pubDate>
+      <itunes:title>S3 Episode 5 - “Train to Busan”</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/037.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>With a rightwing, US-backed klepto-case to his South, Kim Il-Sung bets the house.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>With a rightwing, US-backed klepto-case to his South, Kim Il-Sung bets the house.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4941</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[af59da19-8097-4658-aed2-21a707d00c0f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML1115247474.mp3?updated=1763940037" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 4 - "Red Island"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/71074894-f289-40f3-99bf-13ea3e4887c1</link>
+      <description>The war before the war on a self-reliant island off South Korea.
+Soundtrack: https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 17 Oct 2022 10:00:00 -0000</pubDate>
+      <itunes:title>S3 Episode 4 - "Red Island"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/038.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The war before the war on a self-reliant island off South Korea.
+Soundtrack: https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The war before the war on a self-reliant island off South Korea.</p><p>Soundtrack: <a href="https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ">https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ</a></p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3657</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[74b49095-d150-404b-afed-0c855c5d8284]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML4583700093.mp3?updated=1763939965" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 3 - "The Blue House"</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/c73a4924-edec-46e3-b58c-8d10345d57a8</link>
+      <description>After a flash of hope post-WWII Korea is divided into North and South.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 10 Oct 2022 08:00:00 -0000</pubDate>
+      <itunes:title>S3 Episode 3 - "The Blue House"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/039.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>After a flash of hope post-WWII Korea is divided into North and South.
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>After a flash of hope post-WWII Korea is divided into North and South.</p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4207</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[d940d7e1-cef6-447c-abc5-5c24b81fe2b7]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML2979743064.mp3?updated=1763939929" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 2 - “The Uninvited”</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/297dac15-5d51-4601-aa18-01495cef5eee</link>
+      <description>A pocket-sized history of the Korean peninsula, the upstart US and Japanese empires, and World War II.
+Soundtrack: https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Sat, 01 Oct 2022 13:20:02 -0000</pubDate>
+      <itunes:title>S3 Episode 2 - “The Uninvited”</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/040.png"/>
+      <itunes:subtitle/>
+      <itunes:summary>A pocket-sized history of the Korean peninsula, the upstart US and Japanese empires, and World War II.
+Soundtrack: https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A pocket-sized history of the Korean peninsula, the upstart US and Japanese empires, and World War II.</p><p>Soundtrack: <a href="https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ">https://open.spotify.com/album/4e9hkmGdDhycmgcGKe3bF0?si=d97_H1fvS5CV84ZvcEhZqQ</a></p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>4472</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[6f99345b-0280-4a08-8bd8-13a6640c1168]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML7018577919.mp3?updated=1763939883" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>S3 Episode 1 - “Stop Me Before I Kill Again”</title>
+      <link>https://redcircle.com/shows/e30b9f10-8c86-432e-9fa0-ba287fb94e7f/episodes/1dadc53c-b939-4bfb-b0d8-fa4f6e2188fd</link>
+      <description>A new season, a new story: The Korean War. To listen to the rest of season 3 right now, visit www.blowback.show
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 25 Jul 2022 04:00:00 -0000</pubDate>
+      <itunes:title>S3 Episode 1 - “Stop Me Before I Kill Again”</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Blowback</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/041.png"/>
+      <itunes:subtitle>A new season, a new story: The Korean War. To listen to the rest of season 3 right now, visit www.blowback.show
+
+Advertising Inquiries: https://redcircle.com/brands
+
+Privacy &amp; Opt-Out: https://redcircle.com/privacy</itunes:subtitle>
+      <itunes:summary>A new season, a new story: The Korean War. To listen to the rest of season 3 right now, visit www.blowback.show
+Advertising Inquiries: https://redcircle.com/brandsPrivacy &amp; Opt-Out: https://redcircle.com/privacy
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A new season, a new story: The Korean War. To listen to the rest of season 3 right now, visit <a href="http://www.blowback.show">www.blowback.show</a></p><br><br>Advertising Inquiries: <a href="https://redcircle.com/brands">https://redcircle.com/brands</a><br><br>Privacy &amp; Opt-Out: <a href="https://redcircle.com/privacy">https://redcircle.com/privacy</a><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2675</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[0bdcdfb0-e96a-4b40-af74-7ba1ae81276d]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ARML4203220674.mp3?updated=1763939797" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
