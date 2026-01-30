@@ -24,7 +24,8 @@
       <itunes:name>Blowback</itunes:name>
       <itunes:email>blowbackpod@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/main/Discworld%20Audiobook%20RSS/discworld.png"/>    <itunes:category text="Society &amp; Culture">
+    <itunes:image href="https://megaphone.imgix.net/podcasts/4882ea38-998b-11f0-a0bc-638bd69e0437/image/ec72b5e859c4c38d66bbe2c04b00c572.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:category text="Society &amp; Culture">
     </itunes:category>
     <item>
       <title>S6 Episode 7 - "Constellation"</title>
@@ -34,7 +35,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
       <itunes:title>S6 Episode 7 - "Constellation"</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Blowback</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/2064bca8-e9b2-11f0-b61c-bb4c2ece2b9b/image/ce286e849d20eccf0a59f9462d2482b3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:image href="https://raw.githubusercontent.com/itsjustmustafa/Misc-Media/refs/heads/main/Discworld%20Audiobook%20RSS/bookCoverImages/001.png"/>
       <itunes:subtitle>Reagan arrives, emboldening South Africa and Savimbi. The MPLA hangs on. Cuba recommits.</itunes:subtitle>
       <itunes:summary>Reagan arrives, emboldening South Africa and Savimbi. The MPLA hangs on. Cuba recommits.
 Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
